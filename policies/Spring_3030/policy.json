@@ -1,0 +1,43 @@
+{
+    "course/Spring_3030": {
+        "advanced_modules": [
+            "edx_sga", 
+            "lti", 
+            "library_content"
+        ], 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-CarsonU-BeingRad-course-Spring_3030"
+            }
+        }, 
+        "display_name": "CarsonTest", 
+        "language": "en", 
+        "start": "2030-01-01T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ]
+    }
+}
